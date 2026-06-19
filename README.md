@@ -10,9 +10,8 @@ Repositorio del proyecto de Ingeniería de Software (RQY1102) - Duoc UC.
 
 ## Integrantes
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
+- ALEANDRO JULVE
+- MIGUEL ORTIZ
 
 ## Estructura del Repositorio
 
